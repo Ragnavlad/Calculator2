@@ -1,0 +1,77 @@
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\Programování\Calc\calc02\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\1r\Programování\Calc\calc02\calc02\obj\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02\calc02\obj\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\02 - kopie\calc02\obj\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.2\calc02\obj\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\2.3\calc02\obj\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\bin\Debug\calc02.exe.config
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\bin\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\bin\Debug\calc02.pdb
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.csproj.AssemblyReference.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.csproj.SuggestedBindingRedirects.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.Form1.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.Properties.Resources.resources
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.csproj.GenerateResource.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.csproj.CoreCompileInputs.cache
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.exe
+C:\Users\radim\Documents\Škola\CZUPEF\2r\KT\xsplr002-kpsp\calc02\obj\Debug\calc02.pdb
